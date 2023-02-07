@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/libertytreeonline/static/css/main.b4414e89.css",
-    "main.js": "/libertytreeonline/static/js/main.e55565f8.js",
+    "main.js": "/libertytreeonline/static/js/main.20792d58.js",
     "static/js/787.dbafe610.chunk.js": "/libertytreeonline/static/js/787.dbafe610.chunk.js",
     "static/media/medicatemead.png": "/libertytreeonline/static/media/medicatemead.eb6cecce88fecec888c9.png",
     "static/media/lcpdad.png": "/libertytreeonline/static/media/lcpdad.024137ec29cd10589152.png",
@@ -52,11 +52,11 @@
     "static/media/subwaydeath.webp": "/libertytreeonline/static/media/subwaydeath.11d6cb9c2c234847b0ea.webp",
     "index.html": "/libertytreeonline/index.html",
     "main.b4414e89.css.map": "/libertytreeonline/static/css/main.b4414e89.css.map",
-    "main.e55565f8.js.map": "/libertytreeonline/static/js/main.e55565f8.js.map",
+    "main.20792d58.js.map": "/libertytreeonline/static/js/main.20792d58.js.map",
     "787.dbafe610.chunk.js.map": "/libertytreeonline/static/js/787.dbafe610.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4414e89.css",
-    "static/js/main.e55565f8.js"
+    "static/js/main.20792d58.js"
   ]
 }
