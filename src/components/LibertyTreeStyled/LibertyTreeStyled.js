@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+//article stylings
 export const Divider = styled.div`
   width: 100%;
   background-color: black;

@@ -9,7 +9,6 @@ import { LibertyTreeArticles } from "./LibertyTreeArticles";
 
 export const LibertyTreeArticlePage = () => {
   const { link } = useParams();
-  console.log(link);
   return (
     <StyledArticle>
       <ArticleH1>{LibertyTreeArticles[link].Title}</ArticleH1>

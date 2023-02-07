@@ -41,12 +41,10 @@ import crime from "../../images/crime.webp";
 import manny from "../../images/manny.webp";
 import jingoismact from "../../images/jingoismact.webp";
 import bridgeclose from "../../images/bridgeclose.webp";
-
+//array for link titles
 export const LibertyTreeLinks = [
   "Eddie Low",
-
   "Federal Reserve",
-
   "Lip Reading Bee",
   "Serial Killer Strikes",
   "Kerry McIntosh",
@@ -79,32 +77,24 @@ export const LibertyTreeLinks = [
   "Nerd Virility",
   "McReary Brother Killed",
   "BAWSAQ",
-
   "Boy Found",
   "Prison Break",
   "Cat Shit",
-
   "Urban Myths",
   "Crossings Open",
   "Eris CEO Scandal",
-
   "Chopper Accident",
   "Jefferson Visit",
   "Goldberg Murder",
-
   "Serial Killer Twist",
   "Biker Gang Troubles",
   "Majestic Massacre",
-
   "Subway Death",
   "Steroid Scandal",
   "Dragonbrain",
-
   "Explosion At Depot",
-
   "McTony Sues",
   "Bank Heist",
-
   "Triad Murders",
   "The No-Name Killer",
   "Bohan Violence",
@@ -157,7 +147,7 @@ export const LibertyTreeLinks = [
   "Police Brutality Accusations",
   "Illegal Weapons Crackdown",
 ];
-
+//articles
 export const LibertyTreeArticles = {
   "Eddie Low": {
     Title: "Serial Killer Found Dead - He Has A Name - Eddie Low",

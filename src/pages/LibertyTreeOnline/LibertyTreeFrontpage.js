@@ -7,11 +7,8 @@ import {
   AlsoUL,
   BlackDiv,
   Divider,
-  FlexDiv,
-  FrontPageFixedSection,
   FrontPageSection,
   LibertyImg,
-  MarginLeftDiv,
   NavBar,
   NavButtons,
 } from "../../components/LibertyTreeStyled/LibertyTreeStyled";
@@ -51,6 +48,7 @@ export const LibertyTreeFrontpage = () => {
           </AlsoDiv>
           <AlsoDiv overflow>
             <AlsoUL>
+              {/* map for article links */}
               {LibertyTreeLinks.map((item, index) => {
                 return (
                   <AlsoLi key={index}>

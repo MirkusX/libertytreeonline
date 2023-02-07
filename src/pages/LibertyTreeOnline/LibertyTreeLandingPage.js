@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import {
   AlsoH2,
   BlackDiv,
@@ -8,7 +7,7 @@ import {
 } from "../../components/LibertyTreeStyled/LibertyTreeStyled";
 import lcpdad from "../../images/lcpdad.png";
 import medicatemead from "../../images/medicatemead.png";
-import { LibertyTreeArticles, LibertyTreeLinks } from "./LibertyTreeArticles";
+import { LibertyTreeArticles } from "./LibertyTreeArticles";
 
 export const LibertyTreeLandingPage = () => {
   return (
